@@ -1,0 +1,18 @@
+.reader-article {
+    height: 100%;
+    overflow: hidden;
+}
+.custom-reader-article{
+    padding: 0 16px
+}
+.reader-section{
+    height: 100%;
+    transition: 0.4s;
+    img{
+        display: none;
+    }
+}
+.custom-reader-section {
+    columns: calc(100vw - 32px) 1;
+    column-gap: 16px;
+}

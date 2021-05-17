@@ -1,0 +1,82 @@
+{
+    "compilerOptions": {
+        "baseUrl": "./",
+        "paths": {
+            "@assets/*": [
+                "src/assets/*"
+            ],
+            "@constants": [
+                "src/constants/index"
+            ],
+            "@constants/*": [
+                "src/constants/*"
+            ],
+            "@cores": [
+                "src/cores/index"
+            ],
+            "@cores/*": [
+                "src/cores/*"
+            ],
+            "@hooks": [
+                "src/hooks/index"
+            ],
+            "@hooks/*": [
+                "src/hooks/*"
+            ],
+            "@layouts": [
+                "src/layouts/index"
+            ],
+            "@layouts/*": [
+                "src/layouts/*"
+            ],
+            "@pages": [
+                "src/pages/index"
+            ],
+            "@pages/*": [
+                "src/pages/*"
+            ],
+            "@components": [
+                "src/components/index"
+            ],
+            "@components/*": [
+                "src/components/*"
+            ],
+            "@providers": [
+                "src/providers/index"
+            ],
+            "@providers/*": [
+                "src/providers/*"
+            ],
+            "@models": [
+                "src/models/index"
+            ],
+            "@models/*": [
+                "src/models/*"
+            ],
+            "@services": [
+                "src/services/index"
+            ],
+            "@services/*": [
+                "src/services/*"
+            ],
+            "@stores": [
+                "src/stores/index"
+            ],
+            "@stores/*": [
+                "src/stores/*"
+            ],
+            "@typings": [
+                "src/typings/index"
+            ],
+            "@typings/*": [
+                "src/typings/*"
+            ],
+            "@utils": [
+                "src/utils/index"
+            ],
+            "@utils/*": [
+                "src/utils/*"
+            ]
+        }
+    }
+}

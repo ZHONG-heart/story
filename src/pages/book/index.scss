@@ -1,0 +1,20 @@
+.book-container{
+    background-image: url(../../assets/images/skin-default-m.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+.book-header{
+    height: 44px;
+    line-height: 44px;
+    font-size: 12px;
+    color: rgba(0,0,0,.4);
+}
+
+.custom-book-header{
+    padding-left: 16px;
+}
+
+.book-content{
+    height: calc(100vh - 44px);
+}
